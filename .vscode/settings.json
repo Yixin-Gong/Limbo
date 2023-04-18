@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "*.ipp": "cpp",
+        "string_view": "cpp"
+    }
+}
